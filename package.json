@@ -10,6 +10,7 @@
   },
   "scripts": {
     "build": "tsc",
-    "start": "npm run build && node dist/index.js"
+    "start": "npm run build && node dist/index.js",
+    "@web/dev-server": "^0.4.6"
   }
 }
